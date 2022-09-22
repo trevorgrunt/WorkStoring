@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Тестовая\bin\Debug\net5.0\Тестовая.exe
+C:\Users\admin\source\repos\Тестовая\bin\Debug\net5.0\Тестовая.deps.json
+C:\Users\admin\source\repos\Тестовая\bin\Debug\net5.0\Тестовая.runtimeconfig.json
+C:\Users\admin\source\repos\Тестовая\bin\Debug\net5.0\Тестовая.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Тестовая\bin\Debug\net5.0\Тестовая.dll
+C:\Users\admin\source\repos\Тестовая\bin\Debug\net5.0\ref\Тестовая.dll
+C:\Users\admin\source\repos\Тестовая\bin\Debug\net5.0\Тестовая.pdb
+C:\Users\admin\source\repos\Тестовая\obj\Debug\net5.0\Тестовая.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Тестовая\obj\Debug\net5.0\Тестовая.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Тестовая\obj\Debug\net5.0\Тестовая.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Тестовая\obj\Debug\net5.0\Тестовая.AssemblyInfo.cs
+C:\Users\admin\source\repos\Тестовая\obj\Debug\net5.0\Тестовая.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Тестовая\obj\Debug\net5.0\Тестовая.dll
+C:\Users\admin\source\repos\Тестовая\obj\Debug\net5.0\ref\Тестовая.dll
+C:\Users\admin\source\repos\Тестовая\obj\Debug\net5.0\Тестовая.pdb
+C:\Users\admin\source\repos\Тестовая\obj\Debug\net5.0\Тестовая.genruntimeconfig.cache

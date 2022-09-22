@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Метод средних прямоугольников\bin\Debug\net5.0\Метод средних прямоугольников.exe
+C:\Users\admin\source\repos\Метод средних прямоугольников\bin\Debug\net5.0\Метод средних прямоугольников.deps.json
+C:\Users\admin\source\repos\Метод средних прямоугольников\bin\Debug\net5.0\Метод средних прямоугольников.runtimeconfig.json
+C:\Users\admin\source\repos\Метод средних прямоугольников\bin\Debug\net5.0\Метод средних прямоугольников.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Метод средних прямоугольников\bin\Debug\net5.0\Метод средних прямоугольников.dll
+C:\Users\admin\source\repos\Метод средних прямоугольников\bin\Debug\net5.0\ref\Метод средних прямоугольников.dll
+C:\Users\admin\source\repos\Метод средних прямоугольников\bin\Debug\net5.0\Метод средних прямоугольников.pdb
+C:\Users\admin\source\repos\Метод средних прямоугольников\obj\Debug\net5.0\Метод средних прямоугольников.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Метод средних прямоугольников\obj\Debug\net5.0\Метод средних прямоугольников.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Метод средних прямоугольников\obj\Debug\net5.0\Метод средних прямоугольников.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Метод средних прямоугольников\obj\Debug\net5.0\Метод средних прямоугольников.AssemblyInfo.cs
+C:\Users\admin\source\repos\Метод средних прямоугольников\obj\Debug\net5.0\Метод средних прямоугольников.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Метод средних прямоугольников\obj\Debug\net5.0\Метод средних прямоугольников.dll
+C:\Users\admin\source\repos\Метод средних прямоугольников\obj\Debug\net5.0\ref\Метод средних прямоугольников.dll
+C:\Users\admin\source\repos\Метод средних прямоугольников\obj\Debug\net5.0\Метод средних прямоугольников.pdb
+C:\Users\admin\source\repos\Метод средних прямоугольников\obj\Debug\net5.0\Метод средних прямоугольников.genruntimeconfig.cache

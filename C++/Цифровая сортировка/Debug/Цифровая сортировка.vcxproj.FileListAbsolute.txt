@@ -1,0 +1,2 @@
+C:\Users\admin\source\repos\Цифровая сортировка\Debug\Цифровая сортировка.exe
+C:\Users\admin\source\repos\C++\Цифровая сортировка\Debug\Цифровая сортировка.exe

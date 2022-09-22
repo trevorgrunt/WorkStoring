@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\МетодЕдинственногоДеления\bin\Debug\net5.0\МетодЕдинственногоДеления.exe
+C:\Users\admin\source\repos\МетодЕдинственногоДеления\bin\Debug\net5.0\МетодЕдинственногоДеления.deps.json
+C:\Users\admin\source\repos\МетодЕдинственногоДеления\bin\Debug\net5.0\МетодЕдинственногоДеления.runtimeconfig.json
+C:\Users\admin\source\repos\МетодЕдинственногоДеления\bin\Debug\net5.0\МетодЕдинственногоДеления.runtimeconfig.dev.json
+C:\Users\admin\source\repos\МетодЕдинственногоДеления\bin\Debug\net5.0\МетодЕдинственногоДеления.dll
+C:\Users\admin\source\repos\МетодЕдинственногоДеления\bin\Debug\net5.0\ref\МетодЕдинственногоДеления.dll
+C:\Users\admin\source\repos\МетодЕдинственногоДеления\bin\Debug\net5.0\МетодЕдинственногоДеления.pdb
+C:\Users\admin\source\repos\МетодЕдинственногоДеления\obj\Debug\net5.0\МетодЕдинственногоДеления.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\МетодЕдинственногоДеления\obj\Debug\net5.0\МетодЕдинственногоДеления.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\МетодЕдинственногоДеления\obj\Debug\net5.0\МетодЕдинственногоДеления.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\МетодЕдинственногоДеления\obj\Debug\net5.0\МетодЕдинственногоДеления.AssemblyInfo.cs
+C:\Users\admin\source\repos\МетодЕдинственногоДеления\obj\Debug\net5.0\МетодЕдинственногоДеления.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\МетодЕдинственногоДеления\obj\Debug\net5.0\МетодЕдинственногоДеления.dll
+C:\Users\admin\source\repos\МетодЕдинственногоДеления\obj\Debug\net5.0\ref\МетодЕдинственногоДеления.dll
+C:\Users\admin\source\repos\МетодЕдинственногоДеления\obj\Debug\net5.0\МетодЕдинственногоДеления.pdb
+C:\Users\admin\source\repos\МетодЕдинственногоДеления\obj\Debug\net5.0\МетодЕдинственногоДеления.genruntimeconfig.cache

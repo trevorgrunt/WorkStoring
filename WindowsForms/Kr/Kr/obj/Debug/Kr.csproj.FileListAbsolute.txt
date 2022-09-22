@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\Kr\Kr\bin\Debug\Kr.dll
+C:\Users\admin\source\repos\Kr\Kr\bin\Debug\Kr.pdb
+C:\Users\admin\source\repos\Kr\Kr\obj\Debug\Kr.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Kr\Kr\obj\Debug\Kr.dll
+C:\Users\admin\source\repos\Kr\Kr\obj\Debug\Kr.pdb
+C:\Users\admin\source\repos\Kr\Kr\obj\Debug\Kr.csprojAssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\BigInt\bin\Debug\net5.0\BigInt.exe
+C:\Users\admin\source\repos\BigInt\bin\Debug\net5.0\BigInt.deps.json
+C:\Users\admin\source\repos\BigInt\bin\Debug\net5.0\BigInt.runtimeconfig.json
+C:\Users\admin\source\repos\BigInt\bin\Debug\net5.0\BigInt.runtimeconfig.dev.json
+C:\Users\admin\source\repos\BigInt\bin\Debug\net5.0\BigInt.dll
+C:\Users\admin\source\repos\BigInt\bin\Debug\net5.0\ref\BigInt.dll
+C:\Users\admin\source\repos\BigInt\bin\Debug\net5.0\BigInt.pdb
+C:\Users\admin\source\repos\BigInt\obj\Debug\net5.0\BigInt.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\BigInt\obj\Debug\net5.0\BigInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\BigInt\obj\Debug\net5.0\BigInt.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\BigInt\obj\Debug\net5.0\BigInt.AssemblyInfo.cs
+C:\Users\admin\source\repos\BigInt\obj\Debug\net5.0\BigInt.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\BigInt\obj\Debug\net5.0\BigInt.dll
+C:\Users\admin\source\repos\BigInt\obj\Debug\net5.0\ref\BigInt.dll
+C:\Users\admin\source\repos\BigInt\obj\Debug\net5.0\BigInt.pdb
+C:\Users\admin\source\repos\BigInt\obj\Debug\net5.0\BigInt.genruntimeconfig.cache

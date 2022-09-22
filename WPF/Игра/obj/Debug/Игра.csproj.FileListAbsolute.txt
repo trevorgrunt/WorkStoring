@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\Игра\obj\Debug\Игра.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Игра\obj\Debug\MainWindow.g.cs
+C:\Users\admin\source\repos\Игра\obj\Debug\App.g.cs
+C:\Users\admin\source\repos\Игра\obj\Debug\Игра_MarkupCompile.cache
+C:\Users\admin\source\repos\Игра\obj\Debug\Игра_MarkupCompile.lref
+C:\Users\admin\source\repos\Игра\bin\Debug\Игра.exe.config
+C:\Users\admin\source\repos\Игра\bin\Debug\Игра.exe
+C:\Users\admin\source\repos\Игра\bin\Debug\Игра.pdb
+C:\Users\admin\source\repos\Игра\obj\Debug\MainWindow.baml
+C:\Users\admin\source\repos\Игра\obj\Debug\Игра.g.resources
+C:\Users\admin\source\repos\Игра\obj\Debug\Игра.Properties.Resources.resources
+C:\Users\admin\source\repos\Игра\obj\Debug\Игра.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Игра\obj\Debug\Игра.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Игра\obj\Debug\Игра.exe
+C:\Users\admin\source\repos\Игра\obj\Debug\Игра.pdb

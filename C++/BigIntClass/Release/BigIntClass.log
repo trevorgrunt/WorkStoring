@@ -1,0 +1,7 @@
+﻿  BigIntClass.cpp
+C:\Users\admin\source\repos\BigIntClass\BigIntClass.cpp(41,39): error C2039: "k": не является членом "BigInt".
+C:\Users\admin\source\repos\BigIntClass\BigIntClass.cpp(6): message : см. объявление "BigInt"
+C:\Users\admin\source\repos\BigIntClass\BigIntClass.cpp(47,28): error C2039: "k": не является членом "BigInt".
+C:\Users\admin\source\repos\BigIntClass\BigIntClass.cpp(6): message : см. объявление "BigInt"
+C:\Users\admin\source\repos\BigIntClass\BigIntClass.cpp(49,23): error C2039: "k": не является членом "BigInt".
+C:\Users\admin\source\repos\BigIntClass\BigIntClass.cpp(6): message : см. объявление "BigInt"

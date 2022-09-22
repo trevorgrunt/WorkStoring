@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Линейная интерполяция\bin\Debug\net5.0\Линейная интерполяция.exe
+C:\Users\admin\source\repos\Линейная интерполяция\bin\Debug\net5.0\Линейная интерполяция.deps.json
+C:\Users\admin\source\repos\Линейная интерполяция\bin\Debug\net5.0\Линейная интерполяция.runtimeconfig.json
+C:\Users\admin\source\repos\Линейная интерполяция\bin\Debug\net5.0\Линейная интерполяция.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Линейная интерполяция\bin\Debug\net5.0\Линейная интерполяция.dll
+C:\Users\admin\source\repos\Линейная интерполяция\bin\Debug\net5.0\ref\Линейная интерполяция.dll
+C:\Users\admin\source\repos\Линейная интерполяция\bin\Debug\net5.0\Линейная интерполяция.pdb
+C:\Users\admin\source\repos\Линейная интерполяция\obj\Debug\net5.0\Линейная интерполяция.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Линейная интерполяция\obj\Debug\net5.0\Линейная интерполяция.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Линейная интерполяция\obj\Debug\net5.0\Линейная интерполяция.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Линейная интерполяция\obj\Debug\net5.0\Линейная интерполяция.AssemblyInfo.cs
+C:\Users\admin\source\repos\Линейная интерполяция\obj\Debug\net5.0\Линейная интерполяция.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Линейная интерполяция\obj\Debug\net5.0\Линейная интерполяция.dll
+C:\Users\admin\source\repos\Линейная интерполяция\obj\Debug\net5.0\ref\Линейная интерполяция.dll
+C:\Users\admin\source\repos\Линейная интерполяция\obj\Debug\net5.0\Линейная интерполяция.pdb
+C:\Users\admin\source\repos\Линейная интерполяция\obj\Debug\net5.0\Линейная интерполяция.genruntimeconfig.cache

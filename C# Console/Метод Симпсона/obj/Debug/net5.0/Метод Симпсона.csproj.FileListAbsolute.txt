@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Метод Симпсона\bin\Debug\net5.0\Метод Симпсона.exe
+C:\Users\admin\source\repos\Метод Симпсона\bin\Debug\net5.0\Метод Симпсона.deps.json
+C:\Users\admin\source\repos\Метод Симпсона\bin\Debug\net5.0\Метод Симпсона.runtimeconfig.json
+C:\Users\admin\source\repos\Метод Симпсона\bin\Debug\net5.0\Метод Симпсона.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Метод Симпсона\bin\Debug\net5.0\Метод Симпсона.dll
+C:\Users\admin\source\repos\Метод Симпсона\bin\Debug\net5.0\ref\Метод Симпсона.dll
+C:\Users\admin\source\repos\Метод Симпсона\bin\Debug\net5.0\Метод Симпсона.pdb
+C:\Users\admin\source\repos\Метод Симпсона\obj\Debug\net5.0\Метод Симпсона.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Метод Симпсона\obj\Debug\net5.0\Метод Симпсона.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Метод Симпсона\obj\Debug\net5.0\Метод Симпсона.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Метод Симпсона\obj\Debug\net5.0\Метод Симпсона.AssemblyInfo.cs
+C:\Users\admin\source\repos\Метод Симпсона\obj\Debug\net5.0\Метод Симпсона.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Метод Симпсона\obj\Debug\net5.0\Метод Симпсона.dll
+C:\Users\admin\source\repos\Метод Симпсона\obj\Debug\net5.0\ref\Метод Симпсона.dll
+C:\Users\admin\source\repos\Метод Симпсона\obj\Debug\net5.0\Метод Симпсона.pdb
+C:\Users\admin\source\repos\Метод Симпсона\obj\Debug\net5.0\Метод Симпсона.genruntimeconfig.cache

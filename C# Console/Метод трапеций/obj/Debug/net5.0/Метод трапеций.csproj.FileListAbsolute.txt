@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Метод трапеций\bin\Debug\net5.0\Метод трапеций.exe
+C:\Users\admin\source\repos\Метод трапеций\bin\Debug\net5.0\Метод трапеций.deps.json
+C:\Users\admin\source\repos\Метод трапеций\bin\Debug\net5.0\Метод трапеций.runtimeconfig.json
+C:\Users\admin\source\repos\Метод трапеций\bin\Debug\net5.0\Метод трапеций.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Метод трапеций\bin\Debug\net5.0\Метод трапеций.dll
+C:\Users\admin\source\repos\Метод трапеций\bin\Debug\net5.0\ref\Метод трапеций.dll
+C:\Users\admin\source\repos\Метод трапеций\bin\Debug\net5.0\Метод трапеций.pdb
+C:\Users\admin\source\repos\Метод трапеций\obj\Debug\net5.0\Метод трапеций.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Метод трапеций\obj\Debug\net5.0\Метод трапеций.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Метод трапеций\obj\Debug\net5.0\Метод трапеций.AssemblyInfo.cs
+C:\Users\admin\source\repos\Метод трапеций\obj\Debug\net5.0\Метод трапеций.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Метод трапеций\obj\Debug\net5.0\Метод трапеций.dll
+C:\Users\admin\source\repos\Метод трапеций\obj\Debug\net5.0\ref\Метод трапеций.dll
+C:\Users\admin\source\repos\Метод трапеций\obj\Debug\net5.0\Метод трапеций.pdb
+C:\Users\admin\source\repos\Метод трапеций\obj\Debug\net5.0\Метод трапеций.genruntimeconfig.cache
+C:\Users\admin\source\repos\Метод трапеций\obj\Debug\net5.0\Метод трапеций.csproj.AssemblyReference.cache

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Интерполяционный Многочлен Лагранжа", "Интерполяционный Многочлен Лагранжа.vcxproj", "{C7B77B08-D60D-47E6-80A2-7D97609C07C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7B77B08-D60D-47E6-80A2-7D97609C07C1}.Debug|x64.ActiveCfg = Debug|x64
+		{C7B77B08-D60D-47E6-80A2-7D97609C07C1}.Debug|x64.Build.0 = Debug|x64
+		{C7B77B08-D60D-47E6-80A2-7D97609C07C1}.Debug|x86.ActiveCfg = Debug|Win32
+		{C7B77B08-D60D-47E6-80A2-7D97609C07C1}.Debug|x86.Build.0 = Debug|Win32
+		{C7B77B08-D60D-47E6-80A2-7D97609C07C1}.Release|x64.ActiveCfg = Release|x64
+		{C7B77B08-D60D-47E6-80A2-7D97609C07C1}.Release|x64.Build.0 = Release|x64
+		{C7B77B08-D60D-47E6-80A2-7D97609C07C1}.Release|x86.ActiveCfg = Release|Win32
+		{C7B77B08-D60D-47E6-80A2-7D97609C07C1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1EC6C59-47C3-44CD-BE26-1E6A1EF8028F}
+	EndGlobalSection
+EndGlobal

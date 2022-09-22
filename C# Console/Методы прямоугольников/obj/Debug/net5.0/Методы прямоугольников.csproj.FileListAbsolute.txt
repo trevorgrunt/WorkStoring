@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Методы прямоугольников\bin\Debug\net5.0\Методы прямоугольников.exe
+C:\Users\admin\source\repos\Методы прямоугольников\bin\Debug\net5.0\Методы прямоугольников.deps.json
+C:\Users\admin\source\repos\Методы прямоугольников\bin\Debug\net5.0\Методы прямоугольников.runtimeconfig.json
+C:\Users\admin\source\repos\Методы прямоугольников\bin\Debug\net5.0\Методы прямоугольников.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Методы прямоугольников\bin\Debug\net5.0\Методы прямоугольников.dll
+C:\Users\admin\source\repos\Методы прямоугольников\bin\Debug\net5.0\ref\Методы прямоугольников.dll
+C:\Users\admin\source\repos\Методы прямоугольников\bin\Debug\net5.0\Методы прямоугольников.pdb
+C:\Users\admin\source\repos\Методы прямоугольников\obj\Debug\net5.0\Методы прямоугольников.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Методы прямоугольников\obj\Debug\net5.0\Методы прямоугольников.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Методы прямоугольников\obj\Debug\net5.0\Методы прямоугольников.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Методы прямоугольников\obj\Debug\net5.0\Методы прямоугольников.AssemblyInfo.cs
+C:\Users\admin\source\repos\Методы прямоугольников\obj\Debug\net5.0\Методы прямоугольников.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Методы прямоугольников\obj\Debug\net5.0\Методы прямоугольников.dll
+C:\Users\admin\source\repos\Методы прямоугольников\obj\Debug\net5.0\ref\Методы прямоугольников.dll
+C:\Users\admin\source\repos\Методы прямоугольников\obj\Debug\net5.0\Методы прямоугольников.pdb
+C:\Users\admin\source\repos\Методы прямоугольников\obj\Debug\net5.0\Методы прямоугольников.genruntimeconfig.cache

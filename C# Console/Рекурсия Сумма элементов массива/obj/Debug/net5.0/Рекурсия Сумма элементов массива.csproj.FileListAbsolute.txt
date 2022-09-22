@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Рекурсия Сумма элементов массива\bin\Debug\net5.0\Рекурсия Сумма элементов массива.exe
+C:\Users\admin\source\repos\Рекурсия Сумма элементов массива\bin\Debug\net5.0\Рекурсия Сумма элементов массива.deps.json
+C:\Users\admin\source\repos\Рекурсия Сумма элементов массива\bin\Debug\net5.0\Рекурсия Сумма элементов массива.runtimeconfig.json
+C:\Users\admin\source\repos\Рекурсия Сумма элементов массива\bin\Debug\net5.0\Рекурсия Сумма элементов массива.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Рекурсия Сумма элементов массива\bin\Debug\net5.0\Рекурсия Сумма элементов массива.dll
+C:\Users\admin\source\repos\Рекурсия Сумма элементов массива\bin\Debug\net5.0\ref\Рекурсия Сумма элементов массива.dll
+C:\Users\admin\source\repos\Рекурсия Сумма элементов массива\bin\Debug\net5.0\Рекурсия Сумма элементов массива.pdb
+C:\Users\admin\source\repos\Рекурсия Сумма элементов массива\obj\Debug\net5.0\Рекурсия Сумма элементов массива.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Рекурсия Сумма элементов массива\obj\Debug\net5.0\Рекурсия Сумма элементов массива.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Рекурсия Сумма элементов массива\obj\Debug\net5.0\Рекурсия Сумма элементов массива.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Рекурсия Сумма элементов массива\obj\Debug\net5.0\Рекурсия Сумма элементов массива.AssemblyInfo.cs
+C:\Users\admin\source\repos\Рекурсия Сумма элементов массива\obj\Debug\net5.0\Рекурсия Сумма элементов массива.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Рекурсия Сумма элементов массива\obj\Debug\net5.0\Рекурсия Сумма элементов массива.dll
+C:\Users\admin\source\repos\Рекурсия Сумма элементов массива\obj\Debug\net5.0\ref\Рекурсия Сумма элементов массива.dll
+C:\Users\admin\source\repos\Рекурсия Сумма элементов массива\obj\Debug\net5.0\Рекурсия Сумма элементов массива.pdb
+C:\Users\admin\source\repos\Рекурсия Сумма элементов массива\obj\Debug\net5.0\Рекурсия Сумма элементов массива.genruntimeconfig.cache

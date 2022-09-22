@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Метод Хорд\bin\Debug\net5.0\Метод Хорд.exe
+C:\Users\admin\source\repos\Метод Хорд\bin\Debug\net5.0\Метод Хорд.deps.json
+C:\Users\admin\source\repos\Метод Хорд\bin\Debug\net5.0\Метод Хорд.runtimeconfig.json
+C:\Users\admin\source\repos\Метод Хорд\bin\Debug\net5.0\Метод Хорд.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Метод Хорд\bin\Debug\net5.0\Метод Хорд.dll
+C:\Users\admin\source\repos\Метод Хорд\bin\Debug\net5.0\ref\Метод Хорд.dll
+C:\Users\admin\source\repos\Метод Хорд\bin\Debug\net5.0\Метод Хорд.pdb
+C:\Users\admin\source\repos\Метод Хорд\obj\Debug\net5.0\Метод Хорд.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Метод Хорд\obj\Debug\net5.0\Метод Хорд.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Метод Хорд\obj\Debug\net5.0\Метод Хорд.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Метод Хорд\obj\Debug\net5.0\Метод Хорд.AssemblyInfo.cs
+C:\Users\admin\source\repos\Метод Хорд\obj\Debug\net5.0\Метод Хорд.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Метод Хорд\obj\Debug\net5.0\Метод Хорд.dll
+C:\Users\admin\source\repos\Метод Хорд\obj\Debug\net5.0\ref\Метод Хорд.dll
+C:\Users\admin\source\repos\Метод Хорд\obj\Debug\net5.0\Метод Хорд.pdb
+C:\Users\admin\source\repos\Метод Хорд\obj\Debug\net5.0\Метод Хорд.genruntimeconfig.cache

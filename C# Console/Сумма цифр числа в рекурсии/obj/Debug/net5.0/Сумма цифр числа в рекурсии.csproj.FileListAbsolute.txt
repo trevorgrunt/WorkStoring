@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Сумма цифр числа в рекурсии\bin\Debug\net5.0\Сумма цифр числа в рекурсии.exe
+C:\Users\admin\source\repos\Сумма цифр числа в рекурсии\bin\Debug\net5.0\Сумма цифр числа в рекурсии.deps.json
+C:\Users\admin\source\repos\Сумма цифр числа в рекурсии\bin\Debug\net5.0\Сумма цифр числа в рекурсии.runtimeconfig.json
+C:\Users\admin\source\repos\Сумма цифр числа в рекурсии\bin\Debug\net5.0\Сумма цифр числа в рекурсии.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Сумма цифр числа в рекурсии\bin\Debug\net5.0\Сумма цифр числа в рекурсии.dll
+C:\Users\admin\source\repos\Сумма цифр числа в рекурсии\bin\Debug\net5.0\ref\Сумма цифр числа в рекурсии.dll
+C:\Users\admin\source\repos\Сумма цифр числа в рекурсии\bin\Debug\net5.0\Сумма цифр числа в рекурсии.pdb
+C:\Users\admin\source\repos\Сумма цифр числа в рекурсии\obj\Debug\net5.0\Сумма цифр числа в рекурсии.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Сумма цифр числа в рекурсии\obj\Debug\net5.0\Сумма цифр числа в рекурсии.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Сумма цифр числа в рекурсии\obj\Debug\net5.0\Сумма цифр числа в рекурсии.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Сумма цифр числа в рекурсии\obj\Debug\net5.0\Сумма цифр числа в рекурсии.AssemblyInfo.cs
+C:\Users\admin\source\repos\Сумма цифр числа в рекурсии\obj\Debug\net5.0\Сумма цифр числа в рекурсии.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Сумма цифр числа в рекурсии\obj\Debug\net5.0\Сумма цифр числа в рекурсии.dll
+C:\Users\admin\source\repos\Сумма цифр числа в рекурсии\obj\Debug\net5.0\ref\Сумма цифр числа в рекурсии.dll
+C:\Users\admin\source\repos\Сумма цифр числа в рекурсии\obj\Debug\net5.0\Сумма цифр числа в рекурсии.pdb
+C:\Users\admin\source\repos\Сумма цифр числа в рекурсии\obj\Debug\net5.0\Сумма цифр числа в рекурсии.genruntimeconfig.cache

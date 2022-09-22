@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Лагранж\bin\Debug\net5.0\Лагранж.exe
+C:\Users\admin\source\repos\Лагранж\bin\Debug\net5.0\Лагранж.deps.json
+C:\Users\admin\source\repos\Лагранж\bin\Debug\net5.0\Лагранж.runtimeconfig.json
+C:\Users\admin\source\repos\Лагранж\bin\Debug\net5.0\Лагранж.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Лагранж\bin\Debug\net5.0\Лагранж.dll
+C:\Users\admin\source\repos\Лагранж\bin\Debug\net5.0\ref\Лагранж.dll
+C:\Users\admin\source\repos\Лагранж\bin\Debug\net5.0\Лагранж.pdb
+C:\Users\admin\source\repos\Лагранж\obj\Debug\net5.0\Лагранж.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Лагранж\obj\Debug\net5.0\Лагранж.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Лагранж\obj\Debug\net5.0\Лагранж.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Лагранж\obj\Debug\net5.0\Лагранж.AssemblyInfo.cs
+C:\Users\admin\source\repos\Лагранж\obj\Debug\net5.0\Лагранж.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Лагранж\obj\Debug\net5.0\Лагранж.dll
+C:\Users\admin\source\repos\Лагранж\obj\Debug\net5.0\ref\Лагранж.dll
+C:\Users\admin\source\repos\Лагранж\obj\Debug\net5.0\Лагранж.pdb
+C:\Users\admin\source\repos\Лагранж\obj\Debug\net5.0\Лагранж.genruntimeconfig.cache

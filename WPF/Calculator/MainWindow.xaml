@@ -1,0 +1,42 @@
+﻿<Window x:Class="Калькулятор.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Калькулятор"
+        mc:Ignorable="d"
+        Title="Калькулятор" Height="350" Width="639"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen">
+    <Grid HorizontalAlignment="Left" Height="418" VerticalAlignment="Top" Width="777" Background="#FFACCCF1">
+        <TextBox x:Name="Result" HorizontalAlignment="Left" Height="62" TextWrapping="Wrap" VerticalAlignment="Top" Width="633"/>
+        <Button Content="7" HorizontalAlignment="Left" Margin="5,67,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Button_Click"/>
+        <Button Content="8" HorizontalAlignment="Left" Margin="95,67,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Button_Click"/>
+        <Button Content="9" HorizontalAlignment="Left" Margin="185,67,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Button_Click"/>
+        <Button x:Name="Plus" Content="+" HorizontalAlignment="Left" Margin="275,67,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Plus_Click"/>
+        <Button Content="4" HorizontalAlignment="Left" Margin="5,131,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Button_Click"/>
+        <Button Content="5" HorizontalAlignment="Left" Margin="95,131,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Button_Click"/>
+        <Button Content="6" HorizontalAlignment="Left" Margin="185,131,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Button_Click"/>
+        <Button x:Name="Minus" Content="-" HorizontalAlignment="Left" Margin="275,131,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Minus_Click"/>
+        <Button Content="1" HorizontalAlignment="Left" Margin="5,193,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Button_Click"/>
+        <Button Content="2" HorizontalAlignment="Left" Margin="95,193,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Button_Click"/>
+        <Button Content="3" HorizontalAlignment="Left" Margin="185,193,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Button_Click"/>
+        <Button x:Name="Multiply" Content="*" HorizontalAlignment="Left" Margin="275,193,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Multiply_Click"/>
+        <Button x:Name="Equals" Content="=" HorizontalAlignment="Left" Margin="5,257,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Equals_Click"/>
+        <Button Content="0" HorizontalAlignment="Left" Margin="95,257,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Button_Click"/>
+        <Button x:Name="Divide" Content="/" HorizontalAlignment="Left" Margin="185,257,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Divide_Click"/>
+        <Button x:Name="Clear" Content="Очистить" HorizontalAlignment="Left" Margin="275,257,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Clear_Click"/>
+        <Button x:Name="Power" Content="^" HorizontalAlignment="Left" Margin="365,67,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Power_Click"/>
+        <Button x:Name="Log" Content="log" HorizontalAlignment="Left" Margin="365,131,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Log_Click"/>
+        <Button x:Name="Sqrt" Content="√" HorizontalAlignment="Left" Margin="365,193,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Sqrt_Click"/>
+        <Button x:Name="Percent" Content="%" HorizontalAlignment="Left" Margin="365,257,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Percent_Click"/>
+        <Button x:Name="Ln" Content="Ln" HorizontalAlignment="Left" Margin="455,67,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Ln_Click"/>
+        <Button x:Name="Cos" Content="Cos" HorizontalAlignment="Left" Margin="455,131,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Cos_Click"/>
+        <Button x:Name="Sin" Content="Sin" HorizontalAlignment="Left" Margin="455,193,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Sin_Click"/>
+        <Button x:Name="Tan" Content="Tan" HorizontalAlignment="Left" Margin="455,257,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Tan_Click"/>
+        <Button x:Name="Factorial" Content="!" HorizontalAlignment="Left" Margin="545,67,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Factorial_Click"/>
+        <Button x:Name="Acos" Content="Acos" HorizontalAlignment="Left" Margin="545,131,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Acos_Click"/>
+        <Button x:Name="Asin" Content="Asin" HorizontalAlignment="Left" Margin="545,193,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Asin_Click"/>
+        <Button x:Name="Atan" Content="Asin" HorizontalAlignment="Left" Margin="545,257,0,0" VerticalAlignment="Top" Width="75" Height="49" Click="Atan_Click"/>
+    </Grid>
+</Window>

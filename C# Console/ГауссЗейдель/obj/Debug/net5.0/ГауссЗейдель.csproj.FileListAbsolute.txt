@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\ГауссЗейдель\obj\Debug\net5.0\ГауссЗейдель.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ГауссЗейдель\obj\Debug\net5.0\ГауссЗейдель.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\ГауссЗейдель\obj\Debug\net5.0\ГауссЗейдель.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ГауссЗейдель\obj\Debug\net5.0\ГауссЗейдель.AssemblyInfo.cs
+C:\Users\admin\source\repos\ГауссЗейдель\obj\Debug\net5.0\ГауссЗейдель.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ГауссЗейдель\bin\Debug\net5.0\ГауссЗейдель.exe
+C:\Users\admin\source\repos\ГауссЗейдель\bin\Debug\net5.0\ГауссЗейдель.deps.json
+C:\Users\admin\source\repos\ГауссЗейдель\bin\Debug\net5.0\ГауссЗейдель.runtimeconfig.json
+C:\Users\admin\source\repos\ГауссЗейдель\bin\Debug\net5.0\ГауссЗейдель.runtimeconfig.dev.json
+C:\Users\admin\source\repos\ГауссЗейдель\bin\Debug\net5.0\ГауссЗейдель.dll
+C:\Users\admin\source\repos\ГауссЗейдель\bin\Debug\net5.0\ref\ГауссЗейдель.dll
+C:\Users\admin\source\repos\ГауссЗейдель\bin\Debug\net5.0\ГауссЗейдель.pdb
+C:\Users\admin\source\repos\ГауссЗейдель\obj\Debug\net5.0\ГауссЗейдель.dll
+C:\Users\admin\source\repos\ГауссЗейдель\obj\Debug\net5.0\ref\ГауссЗейдель.dll
+C:\Users\admin\source\repos\ГауссЗейдель\obj\Debug\net5.0\ГауссЗейдель.pdb
+C:\Users\admin\source\repos\ГауссЗейдель\obj\Debug\net5.0\ГауссЗейдель.genruntimeconfig.cache

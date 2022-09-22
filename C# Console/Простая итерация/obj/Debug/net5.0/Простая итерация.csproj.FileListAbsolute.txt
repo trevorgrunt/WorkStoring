@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Простая итерация\bin\Debug\net5.0\Простая итерация.exe
+C:\Users\admin\source\repos\Простая итерация\bin\Debug\net5.0\Простая итерация.deps.json
+C:\Users\admin\source\repos\Простая итерация\bin\Debug\net5.0\Простая итерация.runtimeconfig.json
+C:\Users\admin\source\repos\Простая итерация\bin\Debug\net5.0\Простая итерация.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Простая итерация\bin\Debug\net5.0\Простая итерация.dll
+C:\Users\admin\source\repos\Простая итерация\bin\Debug\net5.0\ref\Простая итерация.dll
+C:\Users\admin\source\repos\Простая итерация\bin\Debug\net5.0\Простая итерация.pdb
+C:\Users\admin\source\repos\Простая итерация\obj\Debug\net5.0\Простая итерация.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Простая итерация\obj\Debug\net5.0\Простая итерация.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Простая итерация\obj\Debug\net5.0\Простая итерация.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Простая итерация\obj\Debug\net5.0\Простая итерация.AssemblyInfo.cs
+C:\Users\admin\source\repos\Простая итерация\obj\Debug\net5.0\Простая итерация.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Простая итерация\obj\Debug\net5.0\Простая итерация.dll
+C:\Users\admin\source\repos\Простая итерация\obj\Debug\net5.0\ref\Простая итерация.dll
+C:\Users\admin\source\repos\Простая итерация\obj\Debug\net5.0\Простая итерация.pdb
+C:\Users\admin\source\repos\Простая итерация\obj\Debug\net5.0\Простая итерация.genruntimeconfig.cache

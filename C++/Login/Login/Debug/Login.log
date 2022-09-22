@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\admin\source\repos\Login\Login\main.cpp(11,16): warning C4129: : неизвестная escape-последовательность
+C:\Users\admin\source\repos\Login\Login\main.cpp(38,13): warning C4129: : неизвестная escape-последовательность
+  Login.vcxproj -> C:\Users\admin\source\repos\Login\Debug\Login.exe

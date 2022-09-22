@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\Алгоритм деления отрезка пополам\bin\Debug\net5.0\Алгоритм деления отрезка пополам.exe
+C:\Users\admin\source\repos\Алгоритм деления отрезка пополам\bin\Debug\net5.0\Алгоритм деления отрезка пополам.deps.json
+C:\Users\admin\source\repos\Алгоритм деления отрезка пополам\bin\Debug\net5.0\Алгоритм деления отрезка пополам.runtimeconfig.json
+C:\Users\admin\source\repos\Алгоритм деления отрезка пополам\bin\Debug\net5.0\Алгоритм деления отрезка пополам.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Алгоритм деления отрезка пополам\bin\Debug\net5.0\Алгоритм деления отрезка пополам.dll
+C:\Users\admin\source\repos\Алгоритм деления отрезка пополам\bin\Debug\net5.0\ref\Алгоритм деления отрезка пополам.dll
+C:\Users\admin\source\repos\Алгоритм деления отрезка пополам\bin\Debug\net5.0\Алгоритм деления отрезка пополам.pdb
+C:\Users\admin\source\repos\Алгоритм деления отрезка пополам\obj\Debug\net5.0\Алгоритм деления отрезка пополам.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Алгоритм деления отрезка пополам\obj\Debug\net5.0\Алгоритм деления отрезка пополам.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Алгоритм деления отрезка пополам\obj\Debug\net5.0\Алгоритм деления отрезка пополам.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Алгоритм деления отрезка пополам\obj\Debug\net5.0\Алгоритм деления отрезка пополам.AssemblyInfo.cs
+C:\Users\admin\source\repos\Алгоритм деления отрезка пополам\obj\Debug\net5.0\Алгоритм деления отрезка пополам.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Алгоритм деления отрезка пополам\obj\Debug\net5.0\Алгоритм деления отрезка пополам.dll
+C:\Users\admin\source\repos\Алгоритм деления отрезка пополам\obj\Debug\net5.0\ref\Алгоритм деления отрезка пополам.dll
+C:\Users\admin\source\repos\Алгоритм деления отрезка пополам\obj\Debug\net5.0\Алгоритм деления отрезка пополам.pdb
+C:\Users\admin\source\repos\Алгоритм деления отрезка пополам\obj\Debug\net5.0\Алгоритм деления отрезка пополам.genruntimeconfig.cache
