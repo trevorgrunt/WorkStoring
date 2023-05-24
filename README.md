@@ -1,1 +1,1 @@
-My educational project since 2020
+Мои учебные проекты с 2020 года
